@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CupOfFlo
 - 👀 I’m interested in learning front end web develpoment
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, and JS
 - 📫 How to reach me - email: afloresd2501@gmail.com
 
 <!---
